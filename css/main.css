@@ -4,7 +4,7 @@ body {
     font-family: 'Roboto Mono', monospace;
     margin: 0;
     padding: 0;
-    
+
 }
 a {
     text-decoration: none;
@@ -111,7 +111,7 @@ nav .profile-link a {
     display: grid;
 }
 .blogs-news-container {
-    background-color: #e6e9ed;
+    background-color: #FFFFFF;
     padding: 0 50px 40px;
 }
 .blogs-main-new {
@@ -135,7 +135,7 @@ nav .profile-link a {
     padding: 0 50px 40px;
 }
 .blogs-posts-container h3 {
-    border-bottom: 1px solid #cdd2da;  
+    border-bottom: 1px solid #cdd2da;
     padding-bottom: 20px;
     text-align: center;
 }
